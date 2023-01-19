@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "LEFT DARK",
+        "width": 1090,
+        "height": 576,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
